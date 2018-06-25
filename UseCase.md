@@ -1,7 +1,7 @@
 # MMCi Github Assignment
 
 ## Description of Use Case
-insert here
+Sana will edit her stuff here
 
 ## Why is it a good use of version control?
 insert here
